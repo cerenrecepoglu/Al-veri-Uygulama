@@ -1,0 +1,10 @@
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\bin\Debug\Alısveris_Uygulama4.exe.config
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\bin\Debug\Alısveris_Uygulama4.exe
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\bin\Debug\Alısveris_Uygulama4.pdb
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.csprojAssemblyReference.cache
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.Form1.resources
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.Properties.Resources.resources
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.csproj.GenerateResource.cache
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.exe
+C:\Users\Ceren\source\repos\Alısveris_Uygulama4\Alısveris_Uygulama4\obj\Debug\Alısveris_Uygulama4.pdb
